@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T11:04:30.772Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/92.0.4515.90 Mobile/15E148 Safari/604.1" version="14.9.9" etag="TyLRnYZkLoId0pGihzIK" type="github"><diagram id="5U95N7Ca8SRfq9WiMqyP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-26T11:13:49.450Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/92.0.4515.90 Mobile/15E148 Safari/604.1" etag="sp6225MHLAlK5Mvqb8Vx" version="14.9.9" type="github">
+  <diagram id="5U95N7Ca8SRfq9WiMqyP" name="Page-1">
+    <mxGraphModel dx="701" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="540" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-4" value="Favorite Presets&lt;br&gt;10x16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-6" value="Types" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-7" value="Selected preset" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-8" value="Tabs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-10" value="Last" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dyX6CKPctrdt9ujjVAZi-11" value="Actions" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

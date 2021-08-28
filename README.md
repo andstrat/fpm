@@ -1,5 +1,5 @@
 # Favorite MIDI Presets
-## About
+## ABOUT
 
 
 
@@ -25,6 +25,7 @@
 ## ROADMAP
 
 
+## CONTRIBUTING
 
 ## RELEASES
 

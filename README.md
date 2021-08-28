@@ -1,9 +1,12 @@
 # Favorite MIDI Presets
+
+
 ## ABOUT
 
-
+![fpm](fpm.png)
 
 ## FEATURES
+
 - Switch Bank (=Sub-Bank) and Program.
 - Switch between automatically or manually sending MIDI data to your MIDI device if Bank/Program is changed
 - MIDI preset may have optionally a user definable name
@@ -30,10 +33,12 @@
 ## RELEASES
 
 ### v1.1
+
 - Presets are now stored with your Ableton project or you can save it as a normal Abletone device preset (.adv files). Preset slots are automatically restored.
 The code is based on https://maxforlive.com/library/device/4286/mikado-base-save-patch-preset-with-live-projet. SPECIAL THANKS to spiralune for this really useful hack.
 
 ### v1.2
+
 - NEW: Presents can be rated from 1-3
 - NEW: AUTO turned on will automatically send MIDI data to your MIDI device if Bank/Program is changed
 - NEW: MIDI send indicators
@@ -49,6 +54,7 @@ The code is based on https://maxforlive.com/library/device/4286/mikado-base-save
 - BUGFIX: Bank selection now working
 
 ### v1.3
+
 - Added a selectable bank size that is used to calculate the Linear Program Counter (bank size * program number).
 - Banks can now have a user definable name
 - Added a mappable number field for the currently selected slot.
@@ -56,5 +62,6 @@ The code is based on https://maxforlive.com/library/device/4286/mikado-base-save
 - Some UI tweaks
 
 ### v1.4
+
 - Added a section to take notes. 
 - Renamed 'Auto' to 'Send'

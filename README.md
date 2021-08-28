@@ -1,29 +1,31 @@
-# Favorite MIDI Presets
+# Favorite MIDI Presets Manager
 
 
 ## ABOUT
 
 ![fpm](fpm.png)
 
+__Favorite MIDI Presets Manager (FPM)__ is a Max for Live device for Ableton Live to organize presets of MIDI capable instruments or devices. 
+
 ## FEATURES
 
-- Switch Bank (=Sub-Bank) and Program.
+- Select Bank and Program.
 - Switch between automatically or manually sending MIDI data to your MIDI device if Bank/Program is changed
 - MIDI preset may have optionally a user definable name
 - MIDI preset can be rated
-- Choose to let MIDI data through
-- Store and recall of a preset in preset slot
-- Presets can be organized on row level. Each row has user-definable label that you can adapt to your own liking, eg. sound styles or status of a presets
-- Last preset selection is save per category and can be recalled
-- Recalled presets are automatically send to your MIDI device
-- Clearing of all data or per row
-- MIDI preset section can be hidden in case you just recalling your presets.
-- Presets can be rated from 1-3
-- MIDI send indicators
-- Continious program counter
-- Select next/previous slot in slot storage
-- Give your bank a meningfull name
-- The preset slot, bank and programm are MIDI mappable,
+- Select a bank and preset using incoming MIDI CC messages (configurable)
+- Store and recall of favorite presets in 10x16 matrix
+- Favorite presets can be organized on row level where each row has a user-definable label, eg. for different sound styles or status of a presets.
+- Last selected favorite preset is preserved per row and can be recalled later.
+- Recalled presets are automatically send to your MIDI device if Autosend is enabled.
+- Clearing of all favorite presets.
+- MIDI preset section can be hidden in case recalling of fafovite presets is needed only.
+- Presets can be rated from 1-3. 
+- If MIDI is send to a MIDI device an indicator blinks for a short time.
+- Continious program counter is shown for devices that have them.
+- Select next/previous slot in slot storage.
+- Banks can have user-definable name.
+- The favorite preset slot, bank and program are MIDI mappable,
 
 ## ROADMAP
 
